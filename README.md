@@ -3,7 +3,7 @@ This is an OOP Lab Repository
 
 
 
-Name: MD. Parvez Hosen
+Name: Md. Parvez Hosen
 
 Student ID: 21225103453
 
